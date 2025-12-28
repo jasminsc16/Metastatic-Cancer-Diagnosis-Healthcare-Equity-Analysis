@@ -1,4 +1,4 @@
-# Metastatic Cancer Diagnosis Healthcare Equity Analysis - Gilead Sciences
+# Metastatic Cancer Diagnosis Healthcare Equity Analysis
 
 # Project Background
 
